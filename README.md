@@ -1,7 +1,10 @@
+# DevopsJourney Project I
 
+I attented to build my first DevOps Project
 
-# YouTube Tutorial Below
-https://www.youtube.com/watch?v=YuZ002YrvUA
+Skills used :
+- Vagrant to set up my Virtual Machines ( 1 Controller + 3 Worker Nodes)
+- Managing Server configuration with Ansible
+- Containerizing Application with Docker
+- Container Orchestration with Docker Swarm
 
-# Vagrant Cheatsheet
-https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
